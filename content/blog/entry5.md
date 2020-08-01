@@ -1,6 +1,6 @@
 ---
 title: Key Largo, Florida
-tags: tag4, tag5
+tags: Florida
 category: Florida
 excerpt: Virgo per novercae, vigor unde cratere fumis, sine atque, Parthaoniae genitoris. Vincere ferociaarva.
 created: 2019-05-05

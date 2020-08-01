@@ -1,6 +1,6 @@
 ---
 title: Oahu, Hawaii
-tags: tag1, tag2
+tags: Hawaii
 category: Hawaii
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
 created: 2019-01-10
