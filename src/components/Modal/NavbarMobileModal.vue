@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="w-full mb-2 overflow-x-hidden dark:text-gray-400">
-      <h2 class="text-xl my-0">Navigation</h2>
+      <h2 class="text-xl my-0">Menu</h2>
       <div class="menu-links">
         <ul>
           <li
@@ -13,17 +13,17 @@
               class="block py-1"
               :to="navItem.link"
               :title="navItem.name"
-              v-if="navItem.external!=true && navItem.children.length <=0"
+              v-if="navItem.external!=true"
             >{{ navItem.name}}</g-link>
             <a
               class="block"
               :href="navItem.link"
               target="_blank"
               :title="navItem.name"
-              v-if="navItem.external==true && navItem.children.length <=0"
+              v-if="navItem.external==true"
             >{{ navItem.name}}</a>
             <ClientOnly>
-              <v-popover
+              <!-- <v-popover
                 placement="right"
                 popoverClass="mobile-navbar-popover"
                 offset="16"
@@ -57,7 +57,7 @@
                     </li>
                   </ul>
                 </template>
-              </v-popover>
+              </v-popover> -->
             </ClientOnly>
           </li>
         </ul>
@@ -78,11 +78,6 @@ query {
       name
       link
       external
-      children {
-        name
-        link
-        external
-      }
     }
   }
 }

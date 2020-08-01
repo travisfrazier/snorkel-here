@@ -1,6 +1,6 @@
 ---
 title: San Diego, CA
-tags: tag2, tag3
+tags: California
 category: California
 excerpt: Lorem markdownum Hesperus in publica iusta aeternus num removit ille. Vincere ferociaarva.
 created: 2019-03-20

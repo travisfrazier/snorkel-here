@@ -1,6 +1,6 @@
 ---
 title: Big Island, Hawaii
-tags: tag1, tag2, tag3
+tags: Hawaii
 category: Hawaii
 excerpt: Qua opes egentes cur, et trunca carpserat tulitquemuneris foedumque patriumque pisces vices!
 created: 2019-02-05
