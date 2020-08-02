@@ -1,5 +1,6 @@
 ---
 title: About us
+image: ./images/oahu.jpg
 ---
 
 ## Ossa narrat sortita fecerat sit conataque
