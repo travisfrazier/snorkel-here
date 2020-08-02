@@ -75,14 +75,14 @@
                           <font-awesome :icon="['fab', 'instagram']" />
                         </a>
                         &nbsp;
-                        <!-- <a
+                        <a
                           :href="$page.blog.author[0].twitter"
                           target="_blank"
                           rel="noopener noreferrer"
                           class="hover:text-blue-500"
                         >
                           <font-awesome :icon="['fab', 'twitter']" />
-                        </a> -->
+                        </a>
                         &nbsp;
                         <a
                           :href="$page.blog.author[0].linkedin"
@@ -162,6 +162,9 @@
         image
         path
         bio
+        instagram
+        twitter
+        linkedin
       }
     }
 
@@ -217,6 +220,7 @@
 </page-query>
 
 <script>
+console.log()
 import CardItem from "~/components/Content/CardItem.vue";
 import ContentHeader from "~/components/Partials/ContentHeader.vue";
 import mediumZoom from "medium-zoom";
