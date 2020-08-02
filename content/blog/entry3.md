@@ -11,7 +11,9 @@ author: author1
 
 ## La Jolla
 
-<iframe style="width: 100%; height: 500px; margin-top: 2rem; margin-bottom: 2rem;" width="560" height="315" src="https://www.youtube.com/embed/q5jbNBHxaXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem;" class="videoWrapper">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/q5jbNBHxaXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
 utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine

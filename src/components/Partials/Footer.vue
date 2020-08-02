@@ -1,25 +1,31 @@
 <template>
-  <div class="bg-blue-900 dark:bg-gray-900 text-white dark:text-gray-400 text-center text-sm">
+  <div
+    class="bg-blue-900 dark:bg-gray-900 text-white dark:text-gray-400 text-center text-sm"
+  >
     <div class="container mx-auto py-16">
       <div class="mb-4">
         <p>
-          Copyright {{ new Date().getFullYear() }} by {{ $static.metadata.siteName}} &middot; Powered by
-          <a
-            href="https://www.gridsome.org"
-            target="_blank"
-          >Gridsome</a>
+          Copyright {{ new Date().getFullYear() }} by
+          {{ $static.metadata.siteName }} &middot; Powered by the Ocean
         </p>
       </div>
       <div class="mb-4">
         <ul class="list-reset flex justify-center">
-          <li v-for="socialItem in $static.metadata.social" :key="socialItem.name" class="px-4">
+          <li
+            v-for="socialItem in $static.metadata.social"
+            :key="socialItem.name"
+            class="px-4"
+          >
             <a :href="socialItem.link" target="_blank" :title="socialItem.name">
-              <font-awesome :icon="icon(socialItem.icon)" size="lg"></font-awesome>
+              <font-awesome
+                :icon="icon(socialItem.icon)"
+                size="lg"
+              ></font-awesome>
             </a>
           </li>
         </ul>
       </div>
-      <div class="mb-4">
+      <!-- <div class="mb-4">
         <ul class="list-reset flex justify-center">
           <li v-for="navItem in $static.metadata.footerNavigation" :key="navItem.name" class="px-4">
             <g-link
@@ -35,7 +41,7 @@
             >{{ navItem.name}}</a>
           </li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
@@ -44,9 +50,9 @@
 export default {
   methods: {
     icon(icon) {
-      return ['fab', icon]
-    }
-  }
+      return ['fab', icon];
+    },
+  },
 };
 </script>
 
