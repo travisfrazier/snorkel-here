@@ -71,6 +71,11 @@ import Pagination from "~/components/Content/Pagination.vue";
 import ContentHeader from "~/components/Partials/ContentHeader.vue";
 
 export default {
+  data() {
+    return {
+      imageBg: './../images/girl-mask.jpg'
+    }
+  },
   components: {
     Pagination,
     CardItem,

@@ -12,7 +12,7 @@ featured: true
 
 ## Destin, Florida
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem;" class="videoWrapper">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem; margin-bottom: 2rem;" class="videoWrapper">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/nE8KFHLtog4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
