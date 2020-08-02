@@ -6,12 +6,14 @@ excerpt: Virgo per novercae, vigor unde cratere fumis, sine atque, Parthaoniae g
 created: 2019-05-05
 image: ./images/cabo.jpg
 image_caption: Photo by Phoenix Han on Unsplash
-author: author1, author2, author3
+author: author1
 ---
 
 ## Los Cabos
 
-<iframe style="width: 100%; height: 500px; margin-top: 2rem; margin-bottom: 2rem;" width="560" height="315" src="https://www.youtube.com/embed/1C5YBWxFjok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem;" class="videoWrapper">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/1C5YBWxFjok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Cabo San Lucas has really good snorkeling. There is coral, although we didn't notice a ton of vibrant reef. The Sea of Cortez is known to have lots of fish and biodiversity. The top spots for snoreling in Cabo are below.
 

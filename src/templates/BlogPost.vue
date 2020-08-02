@@ -67,22 +67,22 @@
                       >{{ $page.blog.author[0].bio }}</div>
                       <div class>
                         <a
-                          :href="$page.blog.author[0].facebook"
+                          :href="$page.blog.author[0].instagram"
                           target="_blank"
                           rel="noopener noreferrer"
                           class="hover:text-blue-500"
                         >
-                          <font-awesome :icon="['fab', 'facebook']" />
+                          <font-awesome :icon="['fab', 'instagram']" />
                         </a>
                         &nbsp;
-                        <a
+                        <!-- <a
                           :href="$page.blog.author[0].twitter"
                           target="_blank"
                           rel="noopener noreferrer"
                           class="hover:text-blue-500"
                         >
                           <font-awesome :icon="['fab', 'twitter']" />
-                        </a>
+                        </a> -->
                         &nbsp;
                         <a
                           :href="$page.blog.author[0].linkedin"

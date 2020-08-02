@@ -12,7 +12,9 @@ featured: true
 
 ## Destin, Florida
 
-<iframe style="width: 100%; height: 500px; margin-top: 2rem; margin-bottom: 2rem;" width="560" height="315" src="https://www.youtube.com/embed/nE8KFHLtog4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem;" class="videoWrapper">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/nE8KFHLtog4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Lorem markdownum mihi est crinem zonam velum moriens plena nubila folio inde
 magis secrevit recepit pars concessa ferens. Fuisset dare. Graias et iudex hinc

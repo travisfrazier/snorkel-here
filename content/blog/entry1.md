@@ -6,12 +6,14 @@ excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia
 created: 2019-01-10
 image: ./images/oahu.jpg
 image_caption: Photo by Josh Spires on Unsplash
-author: author1, author2, author3
+author: author1
 ---
 
 ## Oahu Oahu Oahu
 
-<iframe style="width: 100%; height: 500px; margin-top: 2rem; margin-bottom: 2rem;" width="560" height="315" src="https://www.youtube.com/embed/drY8NCv5Qkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem;" class="videoWrapper">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/drY8NCv5Qkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
 candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia

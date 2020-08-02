@@ -1,19 +1,9 @@
 {
     "social" : [
         {
-            "name": "Facebook",
-            "link": "#",
-            "icon": "facebook-square"
-        },
-        {
             "name": "Instagram",
-            "link": "#",
+            "link": "https://instagram.com/snorkel_here",
             "icon": "instagram"
-        },
-        {
-            "name": "Github",
-            "link": "#",
-            "icon": "github"
         }
     ]
 }
