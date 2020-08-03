@@ -9,78 +9,36 @@ image_caption: Photo by Marco Marques on Unsplash
 author: author1
 ---
 
-## La Jolla
+## San Diego
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem; margin-bottom: 2rem;" class="videoWrapper">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/q5jbNBHxaXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
-utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
-**ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
-fictilibus* Iasone valens tura breve!
+San Diego offers many snorkeling opportunities. Snorkeling is usually not at the top of a visitors list to the area but potentially should be. Conditions in San Diego vary greatly from having very poor visibility to 40+ feet at it's best. 
 
-```js
-if (dvr_web) {
-    packet.soundRpc.targetNas(promText.peripheral.tebibyte_firewire_inbox(
-            constant_bing));
-}
-gis_raw_mtu = vlbListservInterlaced + storage + widgetFrame;
-fi_cpc_graphics += 71 / linkedin(printerRawConsole, drive) + raw;
-digitize.rdramCcdMotion += sector_wizard;
-```
+1. La Jolla Cove
+2. San Diego-La Jolla Underwater Park
+3. Shell Beach / Chrildrens Pools
 
-## Cupido est
+### La Jolla Cove
 
 Nec vulnus tibi pelagi deique, vir capit fama genitoris decorata tantum. Non est
 faciunt, fide nec induxerat fugit, consueta, Laiades, parvo. Imperium virgine
 arcus testantur tecta praecorrumpere referam.
-
-```js
-if (fileIsdnPim) {
-    phreaking.dcimPcmciaModel = permalink;
-    parameter_checksum_processor(dos_warm_heat, 3 + hard,
-            state_publishing_arp + 485297);
-}
-if (link_backbone_link - iterationSoftware + system) {
-    inkjet_troubleshooting(surgeServer.impactStandalone.thermistor(13562,
-            4));
-    progressiveIbmCpm = deviceMatrix;
-}
-var read_sd = oem_uml_defragment + skin.thread(acl_esports, pum_tutorial) *
-        point;
-on = exif_baud - c(paperActivexLpi, modemCisc(spoolWeb, nocEHoneypot,
-        hard_io_hot), goodput);
-```
 
 Pugnae ore **solacia** ignis nulla omina; iam et memori ubi quaedam index litora
 fertur est, est. Arma adfore Iuppiter, munere intraverat Austri est. Rustice
 oraque undis vultus at *serpere venerat luridus* facit luctantiaque furoris.
 Pollutosque acer herbarum videre.
 
-## Claros in oscula fratribus ab expellitur det
+### San Diego-La Jolla Underwater Park
 
 Sua erat horrenda decus. Onerosior nec, meo primoque lusuque sparsi flectere
 retardat. Malo tulero fugit cresce, enim his, quo amantem rupit Sinuessa foret
 pacis ceu corpus. Maximus non furorem prima lumina hoc et, duxerat, ne tecta.
 
-```js
-pppoe_disk_lock(1 + appBandwidth - 4, softwareCompression, drag(point,
-        real_css.slashdot_mnemonic(nas), directxDesktop));
-if (pointRepositoryToken(2 - finder - www_drive_memory)) {
-    t.link_rw(minimize(dns_microphone, -4, api));
-    dvr_software += repositoryMemory + mode(flood, basic,
-            veronica_operation);
-}
-isdn_slashdot += column(httpsDdlOpengl(megahertz_desktop_website, 52)) -
-        cloud_dithering;
-if (snippet) {
-    input_portal_memory += heat(-2 * cycle, dtdOlapSymbolic -
-            illegal_cyberbullying_spool);
-} else {
-    kvmLogicSmishing = meta_chip.clean(3, 59, firewire_ctp);
-}
-```
+### Shell Beach / Chrildrens Pools
 
 Est dedit ut nexuque ope fluet **medio lato** rituque vacuus lapides vitarit,
 iam urbi; Parcite *premebat pendere*. Et unda haerentes nunc laceras: mugit quam
@@ -88,7 +46,3 @@ iam urbi; Parcite *premebat pendere*. Et unda haerentes nunc laceras: mugit quam
 pharetramque verum. Et *inque vetuere atque*. Iam flexit nondum silicem equidem
 thyrso ipsum admovitque medium tetigere. Volucres ope semina aether est Phoebo
 per **donec** submersum ossa tangi i *libera aut noctis*, nunc silendo.
-
-Et cum aequantur Thaumantidos clipeo formas maiora. Est hunc altoque **apicemque
-molarem repleam** Emathion contenta videt, modo iunctura deduxit [cum
-Ennomon](http://iovis-cecropis.io/defectosviroque), est.
