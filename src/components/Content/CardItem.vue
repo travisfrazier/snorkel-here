@@ -38,10 +38,10 @@
         </div>
         <g-link
           :to="record.path"
-          class="flex-col relative flex justify-between rounded-b-lg px-6 h-40 mt-2 dark:text-white"
+          class="flex-col relative flex justify-start rounded-b-lg px-6 h-40 mt-2 dark:text-white"
         >
           <h3 class="post-card-title tracking-wide mt-0">{{ record.title }}</h3>
-
+          <span class="tracking-wide mt-0 text-xs">{{ record.excerpt }}</span>
           <div class="text-xs leading-none absolute bottom-0 pb-6">
             <p>
               <time :datetime="record.datetime">{{ record.humanTime }}</time>

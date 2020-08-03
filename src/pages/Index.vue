@@ -26,6 +26,7 @@
         node {
           id
           title
+          excerpt
           image(width: 800)
           path
           timeToRead
@@ -55,6 +56,7 @@
         node {
           id
           title
+          excerpt
           image(width: 800)
           path
           timeToRead
