@@ -21,6 +21,7 @@
       title
       subtitle
       content
+      image
     }
   }
 </page-query>
