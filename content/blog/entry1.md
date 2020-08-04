@@ -2,22 +2,23 @@
 title: Oahu, Hawaii
 tags: Hawaii
 category: Hawaii
-excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
+excerpt: The most populated Hawaiian island has some great spots to explore beneath the waves
 created: 2019-01-10
 image: ./images/oahu.jpg
 image_caption: Photo by Josh Spires on Unsplash
 author: author1
 ---
 
-## Oahu Oahu Oahu
+## Snorkeling in Oahu
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top: 2rem; margin-bottom: 2rem;" class="videoWrapper">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/drY8NCv5Qkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
+As you can see from the above video, Oahu is awesome! All of the locations meantioned here were also featured in the video, so get pumped! 
+<br>
+<br>
+Here are the top spots for snorkeling on Oahu:
 
 1. Sharks Cove
 2. Makua Beach
@@ -26,21 +27,16 @@ arva.
 
 ### Sharks Cove
 
-Mox haberet ambae torique dedisses quibus que membraque nervo remanet, digiti
-iam neve clamorque fallaces. Relicto aures rarissima detur quoniamque habes haec
-Brotean, redit, est creatis aequore; vel? Impetus glaciali coruscant Bacchus
-**mirata pararet potes**, atque mea rumpere sustulerat umeris fuit.
+Sharks Cove sits along the north shore of Oahu. It's an amazing location with very interesting underwater typography. If you're into freediving or advanced snorkeling this is a must see spot. What Sharks Cove lacks in coral it makes up for with arches, tunnels, and amazing rock formations. (*if you're novice please don't try and swim through any tunnels here - you could easily drown)
+<br>
+<br>
+There is no beach and it's very rocky. There is space to leave your belongings on the rocks. Sharks Cove should also be avoided during the winter months when the north shore is known for it's powerful swells. The waves during this time can make it very dangerious to explore the cove then.
 
 ### Makua Beach
 
-Venerit conveniunt per memori sed laniarat Dromas, solum tum. Undis lacteus
-infitiatur adest [acies certius](http://www.tollit-clamavit.io/) inscius, cum ad
-emittunt dextra.
+Want to have the clearest water on the island, an amazing and secluded beach, the chance to see wild Spinner dolphins? That is what Makua Beach offers. 
 
-Fronde ait ferox medium, virginis igni sanguine micant: **inertia** ore quoque?
-Iaculi quicquid **virescere misit stirpe** Theseus Venerem! Falce taceo oves,
-idem fugit, non abiit palam quantum, fontes vinci et abiit. Deiectoque exstabant
-**Phrygiae** cepit munus tanto.
+It's on the least visited side of the island and is quite a drive away from most accomodations. Despite that, it's worth a visit.
 
 ### Three Tables
 
