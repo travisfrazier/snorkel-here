@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <content-header image="half.jpg" :title="$page.page.title" :sub="$page.page.subtitle"></content-header>
+    <content-header class="object-position-fix" image="about-two.jpg" :title="$page.page.title" :sub="$page.page.subtitle"></content-header>
 
     <div class="container sm:pxi-0 mx-auto overflow-x-hidden text-gray-800 dark:text-gray-400">
 
