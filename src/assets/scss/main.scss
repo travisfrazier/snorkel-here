@@ -15,6 +15,10 @@ blockquote {
   }
 }
 
+.object-position-fix {
+  object-position: 0% 20%;
+}
+
 h1, .h1 {
   @apply font-sans;
   @apply my-4;
